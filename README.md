@@ -95,7 +95,7 @@ Target: 300+ before placements
 
 # 🏆 Coding Profiles
 
-**LeetCode:** [(profile link)](https://leetcode.com/Manish_Mahara/)
+**LeetCode:**[(https://leetcode.com/Manish_Mahara/)](https://leetcode.com/u/Manish_Mahara/)
 **GitHub:** [https://github.com/manishmahara23](https://github.com/manishmahara23)
 
 ---
