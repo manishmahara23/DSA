@@ -1,4 +1,4 @@
-# 🧠 Data Structures & Algorithms in Java | Interview Preparation
+# Data Structures & Algorithms in Java | Interview Preparation
 
 Welcome to my structured **Data Structures and Algorithms (DSA)** preparation repository.
 This repository documents my consistent journey of mastering problem-solving using **Java** for technical interviews, internships, and software engineering roles.
@@ -7,7 +7,7 @@ I actively solve coding problems, optimize approaches, and maintain clean, well-
 
 ---
 
-# 🎯 Objective
+# Objective
 
 * Build strong problem-solving and analytical thinking
 * Master core DSA concepts for coding interviews
@@ -17,10 +17,10 @@ I actively solve coding problems, optimize approaches, and maintain clean, well-
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 **Language:** Java
-**Platforms:** LeetCode, Coding Ninjas, GeeksforGeeks
+**Platforms:** LeetCode, GeeksforGeeks
 **Core Focus:** Problem Solving + Optimization + Patterns
 
 ---
@@ -41,7 +41,7 @@ Each folder contains structured problems with optimized Java solutions and clear
 
 ---
 
-# 🧠 Topics Covered
+# Topics Covered
 
 * Arrays & Strings
 * Linked List
@@ -49,14 +49,12 @@ Each folder contains structured problems with optimized Java solutions and clear
 * Trees & Binary Search Trees
 * Graph (BFS, DFS, Shortest Path)
 * Recursion & Backtracking
-* Dynamic Programming
 * Sliding Window & Two Pointer
 * Binary Search
-* Greedy Algorithms
 
 ---
 
-# 💻 Focus is on writing:
+# Focus is on writing:
 
 * Clean and readable code
 * Optimized logic
@@ -65,15 +63,15 @@ Each folder contains structured problems with optimized Java solutions and clear
 
 ---
 
-# 📊 DSA Progress Tracker
+# DSA Progress Tracker
 
 ```
-Total Problems Solved: _184_
+Total Problems Solved: _250_
 Target: 300+ before placements
 ```
 
 
-# 🔥 Current Preparation Strategy
+# Current Preparation Strategy
 
 * Solving DSA daily
 * Revising patterns regularly
@@ -83,7 +81,7 @@ Target: 300+ before placements
 
 ---
 
-# ⭐ Key Learning Focus
+# Key Learning Focus
 
 * Pattern recognition in problems
 * Writing optimized solutions
@@ -93,21 +91,21 @@ Target: 300+ before placements
 
 ---
 
-# 🏆 Coding Profiles
+# Coding Profiles
 
 **LeetCode:**[(https://leetcode.com/Manish_Mahara/)](https://leetcode.com/u/Manish_Mahara/)
 **GitHub:** [https://github.com/manishmahara23](https://github.com/manishmahara23)
 
 ---
 
-# 🚀 Why this Repository?
+# Why this Repository?
 
 This repository reflects my consistency, discipline, and dedication toward mastering DSA and preparing for software engineering roles.
 It showcases my structured learning approach and continuous improvement in problem solving.
 
 ---
 
-# 📌 Future Goals
+# Future Goals
 
 * 300+ DSA problems solved
 * Strong grip on Dynamic Programming & Graphs
@@ -116,4 +114,3 @@ It showcases my structured learning approach and continuous improvement in probl
 
 ---
 
-### ⭐ If you find this helpful, consider starring the repository!
